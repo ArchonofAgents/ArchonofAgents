@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+
+Greetings, visitors!
+
+I'm Satya Sujan, an Artificial Intelligence and Machine Learning practitioner. I graduated with a Masters degree in Artificial Intelligence from the University of Cincinnati. I have prior experience in Machine Learning engineering. 
