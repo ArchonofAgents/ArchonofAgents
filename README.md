@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 -->
 
-I'm Satya Sujan, an Artificial Intelligence and Machine Learning practitioner. I graduated with a Masters degree in Artificial Intelligence from the University of Cincinnati. I have prior experience in Machine Learning engineering. 
+I'm Satya Sujan, an Artificial Intelligence and Machine Learning practitioner. I recently graduated with a Masters degree in Artificial Intelligence from the University of Cincinnati. I have prior experience in Machine Learning engineering. 
